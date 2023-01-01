@@ -33,7 +33,7 @@ div{
     background-color: rgb(200, 236, 127);
     width: 300px;
     padding: 50px 200px;
-    margin: 50px; 
+    margin: 50px auto; 
     border: 3px solid rgb(193, 16, 25);  
 }
 span{
